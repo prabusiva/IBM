@@ -1,0 +1,1 @@
+Fastq file = 1_mCherry_1, Time elapsed =0.11174368858337402

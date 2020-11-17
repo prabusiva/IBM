@@ -1,0 +1,10 @@
+-----------------------------------------
+target protein = mCherry
+aligned read counts = 1012384
+possible DNA insertion sites count =  1138
+missing DNA insertion sites count =  125
+DNA sequence insertion coverage =  0.89
+possible amino acid split/insertion sites count =  189
+missing aa split/insertion sites count= 11
+missing aa split/insertion sites = 30/31, 36/37, 40/41, 51/52, 78/79, 127/128, 130/131, 166/167, 170/171, 193/194, 216/217, 
+aa sequence coverage =  0.942

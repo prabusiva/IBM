@@ -1,0 +1,6 @@
+,target_protein,end_dna,five_prime_trans_border,three_prime_trans_border,n_trans_border,c_trans_border
+0,mCherry,708,82.5,650.5,28.5,216.5
+1,TetR,621,60.5,561.5,20.5,187.5
+2,SrpR,639,68.5,572.5,23.5,190.5
+3,ECF20,579,17.5,557.5,6.5,185.5
+4,M86-within-mCherry,462,19.5,443.5,7.5,147.5
