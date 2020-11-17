@@ -13,5 +13,12 @@ For analyzing NGS data on final IBM libraries, please refer to the manual:
 NGS_analysis manual.ipynb  
 which will provide an overview of steps  
 
+Note: For NGS analysis, check out [dipseq](https://github.com/SavageLab/dipseq) for a better pipeline.
+
+## Dependencies
+
+* Pandas
+* Biopython
+
 ## License
 Licensed under the MIT License.
