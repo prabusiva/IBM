@@ -4,6 +4,8 @@ Manuscript: "Intein-assisted bisection mapping systematically splits proteins fo
 
 Repository for codes used in IBM experiments. 
 
+<img src="https://github.com/tyhho/IBM/blob/master/images/Github_Readme.png" alt="Codes in IBM pipeline" width="300">
+
 For analyzing Sanger sequencing results at the last stage of PCR products, please refer to the notebook:  
 identify_split_site.ipynb  
 
