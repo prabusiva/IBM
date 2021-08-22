@@ -1,3 +1,7 @@
+#Prabu's notes
+
+NGS analysis
+
 # Codes for Intein-assisted Bisection Mapping (IBM) 
 
 Manuscript: "Intein-assisted bisection mapping systematically splits proteins for Boolean logic and inducibility engineering"
